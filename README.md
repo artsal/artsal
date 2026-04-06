@@ -1,7 +1,7 @@
 ## 👋 About Me
 
-Senior Software Engineer with 20+ years of experience building scalable backend and full-stack systems.  
-Currently focused on **AI Engineering**, applying LLMs, Retrieval-Augmented Generation (RAG), and modern system design to real-world applications.
+Senior Software Engineer with 16+ years of experience building backend and full-stack applications.  
+Currently expanding into **AI Engineering**, with hands-on experience building retrieval-based systems using modern frameworks.
 
 ---
 
@@ -10,10 +10,10 @@ Currently focused on **AI Engineering**, applying LLMs, Retrieval-Augmented Gene
 ### 🤖 AI Assistant (Spring AI, RAG)
 
 * AI-powered document assistant built with Spring Boot and Spring AI  
-* Implements Retrieval-Augmented Generation (RAG) patterns  
-* Modular architecture with chat and document processing layers  
-* Runs locally without paid LLM APIs (cost-efficient design)  
-* Easily extendable to OpenAI / Azure OpenAI  
+* Implements Retrieval-Augmented Generation (RAG) concepts  
+* Modular structure with separate chat and document processing layers  
+* Runs locally without paid LLM APIs (cost-conscious design)  
+* First hands-on project exploring applied AI patterns  
 
 👉 [View Project](https://github.com/artsal/ai-assistant)
 
@@ -23,8 +23,8 @@ Currently focused on **AI Engineering**, applying LLMs, Retrieval-Augmented Gene
 
 * Full-stack portfolio application with separate frontend and backend  
 * Demonstrates real-world deployment using Netlify and Railway  
-* API-driven architecture with clean separation of concerns  
-* Designed to showcase projects beyond static resumes  
+* API-driven architecture with clear separation of concerns  
+* Built to move beyond static resumes into a live engineering portfolio  
 
 👉 [View Project](https://github.com/artsal/portfolio-dashboard)
 
@@ -32,15 +32,16 @@ Currently focused on **AI Engineering**, applying LLMs, Retrieval-Augmented Gene
 
 ## 🧠 Skills
 
-**Backend & Architecture**
+**Backend**
 * Java, Spring Boot  
-* REST APIs, Microservices  
-* System Design & Scalable Architectures  
+* REST APIs
+* MySQL
+* Application design and structured backend development  
 
-**AI Engineering**
+**AI (Learning & Applied)**
 * Spring AI  
-* Retrieval-Augmented Generation (RAG)  
-* LLM Integration Patterns  
+* Retrieval-Augmented Generation (RAG) concepts  
+* Building local AI-assisted applications  
 
 **Frontend**
 * React (working knowledge)  
@@ -49,6 +50,6 @@ Currently focused on **AI Engineering**, applying LLMs, Retrieval-Augmented Gene
 
 ## 🎯 Current Focus
 
-* Building AI-powered backend systems  
-* Exploring agentic workflows and advanced AI architectures  
-* Bridging traditional software engineering with modern AI capabilities  
+* Gaining deeper hands-on experience in AI engineering  
+* Building practical applications using LLM-based patterns  
+* Strengthening system design knowledge alongside implementation  
