@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Senior Software Engineer with 16+ years of experience building backend and full-stack applications.  
+Senior Software Engineer with 16+ years of experience building and maintaining complex web applications across product companies, consulting firms, and startups. My background spans enterprise products and SaaS applications, with a strong focus on systems driven by rich user interfaces and real-world business workflows.
+
 Currently expanding into **AI Engineering**, with hands-on experience building retrieval-based systems using modern frameworks.
 
 ---
