@@ -44,7 +44,9 @@ Currently expanding into **AI Engineering**, with hands-on experience building r
 * Building local AI-assisted applications  
 
 **Frontend**
-* React (working knowledge)  
+* React (working knowledge)
+* Javascript
+* GWT
 
 ---
 
