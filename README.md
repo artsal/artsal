@@ -20,7 +20,7 @@ Currently expanding into **AI Engineering**, with hands-on experience building r
 
 ---
 
-### 📊 Portfolio Dashboard
+### 📊 Portfolio Dashboard (Spring Boot, React)
 
 * Full-stack portfolio application with separate frontend and backend  
 * Demonstrates real-world deployment using Netlify and Railway  
