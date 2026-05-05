@@ -8,7 +8,7 @@ Currently expanding into **AI Engineering**, with hands-on experience building r
 
 ## 🚀 Featured Projects
 
-🧪 Resilience Lab — Distributed System Simulation Platform (Spring Boot, Spring Cloud Gateway, Kafka, MongoDB)
+🧪 Resilience Lab (Spring Boot, Spring Cloud Gateway, Kafka, MongoDB)
 
 * Production-style microservices system designed to simulate real-world scenarios
 * Built with a focus on system reliability, fault tolerance, and monitoring
