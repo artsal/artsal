@@ -8,6 +8,21 @@ Currently expanding into **AI Engineering**, with hands-on experience building r
 
 ## 🚀 Featured Projects
 
+🧪 Resilience Lab — Distributed System Simulation Platform (Spring Boot, Spring Cloud Gateway, Kafka, MongoDB)
+
+* Production-style microservices system designed to simulate real-world scenarios
+* Built with a focus on system reliability, fault tolerance, and monitoring
+* Event-driven architecture using Kafka for asynchronous communication
+* API Gateway implementation for centralized routing and control
+* Failure simulation (chaos injection) with DLQ handling and replay mechanisms
+* End-to-end observability using Prometheus and Grafana dashboards
+* Real-time monitoring of throughput, failures, and system health
+* Dockerized setup for consistent local and containerized environments
+
+👉 [View Project](https://github.com/artsal/resilience-lab)
+
+---
+
 ### 🤖 AI Assistant (Spring AI, RAG)
 
 * AI-powered document assistant built with Spring Boot and Spring AI  
@@ -20,7 +35,7 @@ Currently expanding into **AI Engineering**, with hands-on experience building r
 
 ---
 
-### 📊 Portfolio Dashboard (Spring Boot, React)
+### 📊 Portfolio Dashboard (Spring Boot, React, MySQL)
 
 * Full-stack portfolio application with separate frontend and backend  
 * Demonstrates real-world deployment using Netlify and Railway  
